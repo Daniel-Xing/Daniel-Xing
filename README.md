@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<!--
+
 **Daniel-Xing/Daniel-Xing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dx121@ic.ac.uk
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: [Insert a fun fact about yourself or your work]
--->
